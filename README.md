@@ -1,6 +1,6 @@
 # Authorize Component
 
-> Observação: _Este componente deve ser usado apenas em usuários logados, ao >menos que mude um pouco a sua implementação._
+> Observação: _Este componente deve ser usado apenas em usuários logados, ao menos que mude um pouco a sua implementação._
 
 - É obrigatório prover a função de checagem de permissão, essa função deve retornar um `boolean`, indicando se o usuário logado pode acessar determinada `children` que irá ser passado ao AuthorizeView.
 
