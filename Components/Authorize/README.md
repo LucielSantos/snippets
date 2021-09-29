@@ -1,3 +1,7 @@
+| Título              | Tags                                     |
+| ------------------- | ---------------------------------------- |
+| Authorize component | Typescript, React, Component, Authorize, |
+
 # Authorize Component
 
 > Observação: _Este componente deve ser usado apenas em usuários logados, ao menos que mude um pouco a sua implementação._
